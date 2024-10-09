@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "bce7fc841f44d07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3393288e51ec40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e9081461d35fc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_notes/IELT/范文-大作文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1972da7ad9e6a97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "604e74646aa6d0e6",
+        "type": "tabs",
+        "dimension": 72.33796296296296,
+        "children": [
+          {
+            "id": "97e7e8a43ed0ce61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5808dcfbd64030b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "deductive",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8565d87c3474a2b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "362b38ade6a0f89a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0415740d4f3a051c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Reading/ReadingSummary(填空判断).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e50713f58924f512",
+        "type": "tabs",
+        "dimension": 27.662037037037035,
+        "children": [
+          {
+            "id": "99a59a6af0be5f37",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "b5334180ff184332",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab5dc30db31ae40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc422b3c15d81b77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6_notes/IELT/范文-大作文.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "56ae715cf2cdf24c",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcaf67fa9c204bef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6_notes/IELT/范文-大作文.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79abd538e2a291c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed20a65fadd5fe55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "03c952604af52f14",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "1e9081461d35fc13",
+  "lastOpenFiles": [
+    "6_notes/IELT/范文-小作文.md",
+    "3_Speaking/背诵.md",
+    "5_TestLog/C18-T1.md",
+    "6_notes/IELT/作文话题.md",
+    "6_notes/IELT/IELT总结.md",
+    "6_notes/IELT/练习-小作文.md",
+    "6_notes/IELT/范文-大作文.md",
+    "6_notes/IELT/听力.md",
+    "5_TestLog/C17-T4.md",
+    "5_TestLog/C17-T3.md",
+    "5_TestLog/C17-T2.md",
+    "5_TestLog/C17-T1.md",
+    "5_TestLog/C16-T4.md",
+    "5_TestLog/C16-T3.md",
+    "5_TestLog/C16-T2.md",
+    "5_TestLog/C16-T1.md",
+    "5_TestLog/C15-T4.md",
+    "5_TestLog/C15-T3.md",
+    "5_TestLog/C15-T2.md",
+    "5_TestLog/C15-T1.md",
+    "5_TestLog/C14-T1.md",
+    "5_TestLog/C14-T2.md",
+    "5_TestLog/C14-T3.md",
+    "6_notes/IELT/口语.md",
+    "6_notes/IELT/写作.md",
+    "1_Listening/Listen-1.md",
+    "4_Writing/Writing.canvas",
+    "7_others/答案形式总结.png",
+    "5_TestLog/未命名",
+    "2_Reading/选择题.canvas",
+    "2_Reading/小标题.canvas",
+    "2_Reading/配对题.canvas",
+    "2_Reading/判断题.canvas",
+    "2_Reading/填空题-2.canvas",
+    "2_Reading/填空题-1.canvas",
+    "2_Reading/Read.canvas",
+    "1_Listening/Listen-Summary.canvas",
+    "5_BookMagazine/IELT真题/重点长难句",
+    "5_BookMagazine/IELT真题/考试记录",
+    "5_BookMagazine/IELT真题/写作功能句",
+    "5_TestLog/The-PhD-Grind.pdf",
+    "5_BookMagazine/IELT真题",
+    "5_TestLog",
+    "4_Writing",
+    "3_Speaking",
+    "2_Reading",
+    "Reading/配对题.canvas",
+    "7_others/Pasted image 20230409165112.png",
+    "7_others/题型特点-2.png",
+    "7_others/Pasted image 20230717203851.png",
+    "7_others/Pasted image 20230717203804.png",
+    "7_others/Pasted image 20230717203605.png",
+    "7_others/Pasted image 20230717203558.png",
+    "7_others/Pasted image 20230717203551.png",
+    "7_others/Pasted image 20230717202945.png",
+    "7_others/Pasted image 20230717202937.png"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "title": "tag:#word",
+      "query": "tag:#word"
+    }
+  ]
+}

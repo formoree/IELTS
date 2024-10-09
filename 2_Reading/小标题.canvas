@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"group","id":"60636965d4dda86b","x":155,"y":-480,"width":2185,"height":2017,"label":"流程"},
+		{"type":"group","id":"e11673a30d84c0de","x":180,"y":-147,"width":2140,"height":1226,"label":"技巧"},
+		{"type":"file","file":"7_others/Pasted image 20230409171117.png","id":"8e946616cc198e09","x":200,"y":-120,"width":400,"height":371},
+		{"type":"file","file":"7_others/Pasted image 20230409171122.png","id":"669d516dcc9b8fbd","x":620,"y":-127,"width":400,"height":386},
+		{"type":"file","file":"7_others/Pasted image 20230409171144.png","id":"5fc2a6e87d355eb5","x":1040,"y":280,"width":400,"height":380},
+		{"type":"file","file":"7_others/Pasted image 20230409171152.png","id":"2ffeed2f8e9e3232","x":1040,"y":680,"width":400,"height":379},
+		{"type":"file","file":"7_others/Pasted image 20230409171157.png","id":"1c081cefcfa8373e","x":1460,"y":-118,"width":400,"height":379},
+		{"type":"file","file":"7_others/Pasted image 20230409171202.png","id":"baf9ccd9acbe1ba3","x":1460,"y":291,"width":400,"height":389},
+		{"type":"file","file":"7_others/Pasted image 20230409171108.png","id":"1f8ce10d00acf9f7","x":200,"y":-460,"width":399,"height":235},
+		{"type":"file","file":"7_others/Pasted image 20230409171212.png","id":"6711cb1e57de7817","x":1900,"y":-121,"width":400,"height":382},
+		{"type":"file","file":"7_others/Pasted image 20230409171129.png","id":"9bcb556960a0b529","x":1040,"y":-120,"width":400,"height":381},
+		{"type":"file","file":"7_others/Pasted image 20230409171224.png","id":"fafdfbbf5a3cb9e0","x":640,"y":1180,"width":400,"height":337},
+		{"type":"file","file":"7_others/Pasted image 20230409171222.png","id":"7353493347fb5fa8","x":175,"y":1228,"width":400,"height":241},
+		{"type":"file","file":"7_others/Pasted image 20230409171230.png","id":"fe94bc95168a4767","x":1100,"y":1228,"width":400,"height":239},
+		{"type":"file","file":"7_others/Pasted image 20230409171103.png","id":"4bff78905c418fb8","x":-520,"y":395,"width":400,"height":265}
+	],
+	"edges":[
+		{"id":"fc81ed49d9c79426","fromNode":"7353493347fb5fa8","fromSide":"right","toNode":"fafdfbbf5a3cb9e0","toSide":"left"},
+		{"id":"de514a23fdb16dfe","fromNode":"fafdfbbf5a3cb9e0","fromSide":"right","toNode":"fe94bc95168a4767","toSide":"left"},
+		{"id":"70719a2d2e72d760","fromNode":"4bff78905c418fb8","fromSide":"right","toNode":"60636965d4dda86b","toSide":"left"}
+	]
+}

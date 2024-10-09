@@ -1,0 +1,453 @@
+{
+  "workspaces": {
+    "Word": {
+      "main": {
+        "id": "bce7fc841f44d07b",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5d44a1015ac4b6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7b54d321920fb67e",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-reading",
+                  "state": {
+                    "file": "3_BookMagazine/IELT真题/剑4/剑4-Test1.md"
+                  }
+                }
+              },
+              {
+                "id": "0f8471bee73c81c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工作流.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1972da7ad9e6a97c",
+        "type": "split",
+        "children": [
+          {
+            "id": "604e74646aa6d0e6",
+            "type": "tabs",
+            "dimension": 72.33796296296296,
+            "children": [
+              {
+                "id": "97e7e8a43ed0ce61",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5808dcfbd64030b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#read/EcologyProtection",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8565d87c3474a2b9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "17bf7e40383cc8d0",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-search-panel",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "e50713f58924f512",
+            "type": "tabs",
+            "dimension": 27.662037037037035,
+            "children": [
+              {
+                "id": "99a59a6af0be5f37",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 328.5
+      },
+      "right": {
+        "id": "b5334180ff184332",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ab5dc30db31ae40",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dcaf67fa9c204bef",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "工作流.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dc422b3c15d81b77",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "工作流.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "79abd538e2a291c9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fa65a43ce9c60808",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "工作流.md"
+                  }
+                }
+              },
+              {
+                "id": "0927035d3c20916b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "96be3c627516c419",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-learn-panel",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31b1bae368fa857f",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "374e33308d68fcfc",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-stat",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 336.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-language-learner:打开查词面板": false,
+          "obsidian-language-learner:打开新词面板": false,
+          "obsidian-language-learner:打开统计": false,
+          "obsidian-language-learner:单词列表": false,
+          "obsidian-spaced-repetition:复习卡片": false
+        }
+      },
+      "active": "0f8471bee73c81c7"
+    },
+    "Review": {
+      "main": {
+        "id": "bce7fc841f44d07b",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee9c6d4d9a7c122",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab1ad70c78f0026b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5_words/inhibitors.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ab6359b9d874c433",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-data-panel",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1972da7ad9e6a97c",
+        "type": "split",
+        "children": [
+          {
+            "id": "604e74646aa6d0e6",
+            "type": "tabs",
+            "dimension": 72.33796296296296,
+            "children": [
+              {
+                "id": "97e7e8a43ed0ce61",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5808dcfbd64030b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "#read",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8565d87c3474a2b9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "17bf7e40383cc8d0",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-search-panel",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "e50713f58924f512",
+            "type": "tabs",
+            "dimension": 27.662037037037035,
+            "children": [
+              {
+                "id": "99a59a6af0be5f37",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "b5334180ff184332",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ab5dc30db31ae40",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dcaf67fa9c204bef",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "5_words/inhibitors.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dc422b3c15d81b77",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "5_words/inhibitors.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "79abd538e2a291c9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fa65a43ce9c60808",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "5_words/inhibitors.md"
+                  }
+                }
+              },
+              {
+                "id": "0927035d3c20916b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "96be3c627516c419",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-learn-panel",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31b1bae368fa857f",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "374e33308d68fcfc",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-stat",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-language-learner:打开查词面板": false,
+          "obsidian-language-learner:打开新词面板": false,
+          "obsidian-language-learner:打开统计": false,
+          "obsidian-language-learner:单词列表": false,
+          "obsidian-spaced-repetition:复习卡片": false,
+          "smart-random-note:Open Random Note from Search": false
+        }
+      },
+      "active": "ab1ad70c78f0026b"
+    }
+  },
+  "active": "Review"
+}
